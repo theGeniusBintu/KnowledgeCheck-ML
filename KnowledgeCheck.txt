@@ -1,0 +1,76 @@
+1.How would you define Machine Learning? 
+Machine learning is a branch of AI and computer science 
+that deals with the use of data and algorithms to train machines 
+to mimic human intelligence in order to make predictions 
+without being explicitly programmed.
+
+2.Can you name four types of problems where it shines?
+i)Classifying images 
+ii)Reducing data loss when compressing data
+iii)Where traditional rules will be complex.
+iv)Dynamic environment
+
+3.What is a labeled training set?
+Labelled training set refers to augmenting informative tags on 
+unlabelled data.Labels can be referred to as desired solutions.
+This is useful for supervised machine learning setups.
+
+4. What are the two most common supervised tasks?
+   i)Classification
+   ii)Regression
+
+5. Can you name four common unsupervised tasks?
+   i)Clustering 
+   ii)Anomaly detection
+   iii)Visualization and dimensionality reduction 
+   iv)Association rule and learning
+
+6. What type of Machine Learning algorithm would you use to allow
+ a robot to walk in various unknown terrains?
+Reinforcement
+
+7.What type of algorithm would you use to
+segment your customers into multiple groups?
+Unsupervised learning(Clustering)
+
+8.Would you frame the problem of spam detection as a 
+supervised learning problem or an unsupervised learning problem?
+Supervised learning problem
+
+9.What is an online learning system?
+Online learning refers to training a system incrementally 
+feeding examples continuously and in small batches.
+
+10.What do model-based learning algorithms search for?
+ What is the most common strategy they use to succeed? 
+How do they make predictions?
+The system builds a model of the examples given
+and then uses the model to make predictions
+
+11.Can you name four of the main challenges in Machine Learning?
+Data related:
+i)Poor quality data
+ii)Insufficient quantity of training data
+Algorithm related:
+i)Overfitting the training data
+ii)Underfitting the training data
+
+12.If your model performs great on the training data but generalizes poorly to 
+new instances, what is happening? Can you name three possible solutions?
+i)Insufficient training data 
+ii)Overfitting
+iii)Irrelevant features 
+
+13.What is a test set and why would you want to use it?
+The sample of data used to provide an unbiased evaluation
+of a final model fit on the training dataset.
+Make predictions
+
+14.What is the purpose of a validation set?
+Validity checks if a model is consistent in its prediction 
+accuracy through various iterations. 
+
+15.What is cross-validation and 
+why would you prefer it to a validation set?
+Cross-validation is a resampling procedure used to 
+evaluate machine learning models on a limited data sample.
